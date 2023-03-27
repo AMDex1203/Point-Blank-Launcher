@@ -1,0 +1,5 @@
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Connection.resources
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Launcher.resources
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\PBLauncher.csproj.GenerateResource.Cache

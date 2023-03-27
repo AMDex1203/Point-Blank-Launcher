@@ -1,0 +1,37 @@
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.exe.config
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.Form1.resources
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.Resources.resources
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.vbproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.exe
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.xml
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\Interop.Shell32.dll
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.vbproj.ResolveComReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.exe
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.xml
+c:\users\administrador\documents\visual studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.exe.config
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.xml
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\Interop.Shell32.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.vbproj.ResolveComReference.cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.Form1.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.Resources.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.vbproj.GenerateResource.Cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.xml
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\PBLauncherUpdater\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.pdb
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.exe.config
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.exe
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.pdb
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\bin\Debug\PBLauncherUpdater.xml
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\Interop.Shell32.dll
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.vbproj.ResolveComReference.cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.Form1.resources
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.Resources.resources
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.vbproj.GenerateResource.Cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.vbproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.exe
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.xml
+C:\Users\john\Desktop\#\PBLauncher 1709291908\PBLauncherUpdate\PBLauncherUpdater\obj\Debug\PBLauncherUpdater.pdb

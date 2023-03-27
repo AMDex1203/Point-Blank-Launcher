@@ -1,0 +1,122 @@
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\p2qlx.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\p2qlx.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Interop.Shell32.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csproj.ResolveComReference.cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\DotNetZip.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\DotNetZip.xml
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\obj\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\bin\Release\DotNetZip.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\bin\Release\p2qlx.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\bin\Release\p2qlx.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\bin\Release\DotNetZip.xml
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\obj\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\bin\Release\DotNetZip.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\bin\Release\p2qlx.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\bin\Release\p2qlx.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\bin\Release\DotNetZip.xml
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\obj\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\bin\Release\DotNetZip.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\bin\Release\DotNetZip.xml
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\bin\Release\libraryfile.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\Point Blank Launcher\bin\Release\libraryfile.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\libraryfile.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\libraryfile.pdb
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.exe
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.pdb
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.exe
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.pdb
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\bin\Release\DotNetZip.dll
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\bin\Release\libraryfile.dll
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\bin\Release\libraryfile.pdb
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\bin\Release\DotNetZip.xml
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+E:\backuup\Nova pasta\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.pdb
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\DotNetZip.dll
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\libraryfile.dll
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\libraryfile.pdb
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\DotNetZip.xml
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\Point Blank Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\PBLauncher.pdb
+C:\Users\john\Desktop\Lau\Point Blank Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\john\Desktop\Lau\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\john\Desktop\Lau\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\john\Desktop\Lau\Point Blank Launcher\bin\Release\DotNetZip.dll
+C:\Users\john\Desktop\Lau\Point Blank Launcher\bin\Release\libraryfile.dll
+C:\Users\john\Desktop\Lau\Point Blank Launcher\bin\Release\libraryfile.pdb
+C:\Users\john\Desktop\Lau\Point Blank Launcher\bin\Release\DotNetZip.xml
+C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Release\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\bin\Release\PBLauncher.exe
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\bin\Release\PBLauncher.pdb
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\bin\Release\DotNetZip.dll
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\bin\Release\libraryfile.dll
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\bin\Release\libraryfile.pdb
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\bin\Release\DotNetZip.xml
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\PBLauncher.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Connection.resources
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Launcher.resources
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\PBLauncher.exe
+C:\Users\john\Desktop\#\PBLauncher 1709291908\Point Blank Launcher\obj\Release\PBLauncher.pdb

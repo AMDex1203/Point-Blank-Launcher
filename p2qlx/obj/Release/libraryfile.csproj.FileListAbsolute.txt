@@ -1,0 +1,30 @@
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\p2qlx\bin\Release\libraryfile.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\p2qlx\bin\Release\libraryfile.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\p2qlx\obj\Release\libraryfile.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher - 2.1.7.2 - Copia - Copia\p2qlx\obj\Release\libraryfile.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\bin\Release\libraryfile.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\bin\Release\libraryfile.pdb
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\obj\Release\libraryfile.csprojResolveAssemblyReference.cache
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\obj\Release\libraryfile.dll
+C:\Users\MarceloOCara\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\obj\Release\libraryfile.pdb
+E:\backuup\Nova pasta\Point Blank Launcher\p2qlx\bin\Release\libraryfile.dll
+E:\backuup\Nova pasta\Point Blank Launcher\p2qlx\bin\Release\libraryfile.pdb
+E:\backuup\Nova pasta\Point Blank Launcher\p2qlx\obj\Release\libraryfile.csprojResolveAssemblyReference.cache
+E:\backuup\Nova pasta\Point Blank Launcher\p2qlx\obj\Release\libraryfile.dll
+E:\backuup\Nova pasta\Point Blank Launcher\p2qlx\obj\Release\libraryfile.pdb
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\bin\Release\libraryfile.dll
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\bin\Release\libraryfile.pdb
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\obj\Release\libraryfile.csprojResolveAssemblyReference.cache
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\obj\Release\libraryfile.dll
+C:\Users\Marcelopc\Documents\Visual Studio 2013\Projects\Point Blank Launcher\p2qlx\obj\Release\libraryfile.pdb
+C:\Users\john\Desktop\Lau\p2qlx\bin\Release\libraryfile.dll
+C:\Users\john\Desktop\Lau\p2qlx\bin\Release\libraryfile.pdb
+C:\Users\john\Desktop\Lau\p2qlx\obj\Release\libraryfile.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\Lau\p2qlx\obj\Release\libraryfile.dll
+C:\Users\john\Desktop\Lau\p2qlx\obj\Release\libraryfile.pdb
+C:\Users\john\Desktop\#\PBLauncher 1709291908\p2qlx\bin\Release\libraryfile.dll
+C:\Users\john\Desktop\#\PBLauncher 1709291908\p2qlx\bin\Release\libraryfile.pdb
+C:\Users\john\Desktop\#\PBLauncher 1709291908\p2qlx\obj\Release\libraryfile.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\#\PBLauncher 1709291908\p2qlx\obj\Release\libraryfile.dll
+C:\Users\john\Desktop\#\PBLauncher 1709291908\p2qlx\obj\Release\libraryfile.pdb
+C:\Users\john\Desktop\#\PBLauncher 1709291908\p2qlx\obj\Release\libraryfile.csprojResolveAssemblyReference.cache
