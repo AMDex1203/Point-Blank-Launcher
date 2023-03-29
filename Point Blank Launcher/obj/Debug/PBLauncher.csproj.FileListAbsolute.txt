@@ -3,3 +3,20 @@ C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Co
 C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Launcher.resources
 C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Properties.Resources.resources
 C:\Users\john\Desktop\Lau\Point Blank Launcher\obj\Debug\PBLauncher.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\PBLauncher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\PBLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\bin\Debug\PBLauncher.exe
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\bin\Debug\DotNetZip.dll
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\bin\Debug\libraryfile.dll
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\bin\Debug\libraryfile.pdb
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\bin\Debug\DotNetZip.xml
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Connection.resources
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Launcher.resources
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\Point_Blank_Launcher.Properties.Resources.resources
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\PBLauncher.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\PBLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\PBLauncher.csproj.CopyComplete
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\Point Blank Launcher\obj\Debug\PBLauncher.pdb

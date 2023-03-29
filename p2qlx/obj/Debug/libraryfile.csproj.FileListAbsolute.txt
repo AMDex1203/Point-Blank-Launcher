@@ -3,3 +3,9 @@ C:\Users\john\Desktop\Lau\p2qlx\bin\Debug\libraryfile.pdb
 C:\Users\john\Desktop\Lau\p2qlx\obj\Debug\libraryfile.csproj.CoreCompileInputs.cache
 C:\Users\john\Desktop\Lau\p2qlx\obj\Debug\libraryfile.dll
 C:\Users\john\Desktop\Lau\p2qlx\obj\Debug\libraryfile.pdb
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\p2qlx\bin\Debug\libraryfile.dll
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\p2qlx\bin\Debug\libraryfile.pdb
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\p2qlx\obj\Debug\libraryfile.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\p2qlx\obj\Debug\libraryfile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\p2qlx\obj\Debug\libraryfile.dll
+C:\Users\Administrator\Downloads\PBLauncher 1709291908\PBLauncher 1709291908\p2qlx\obj\Debug\libraryfile.pdb
